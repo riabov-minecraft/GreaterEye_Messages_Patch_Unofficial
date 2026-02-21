@@ -1,0 +1,12 @@
+{
+  "item.greater_eye.greater_eye": "Большой глаз Эндера",
+  "item.greater_eye.greater_eye_end": "Большой глаз Эндера (Край)",
+  "item.greater_eye.greater_eye_nether": "Большой глаз Эндера (Нижний мир)",
+  "item.greater_eye.greater_eye.line1": "Указывает путь ко многим ванильным структурам",
+  "item.greater_eye.greater_eye.line2": "Присесть + ПКМ — сменить структуру",
+  "item.greater_eye.greater_eye.message1": "Выбор: %s",
+  "item.greater_eye.greater_eye.message2": "Будет искать: %s",
+  "item.greater_eye.greater_eye.message3": "Ближайшая «%s» находится в %s блоках",
+  "item.greater_eye.greater_eye.message4": "Не удалось найти! Возможно, эта структура здесь не генерируется.",
+  "itemGroup.greater_eye": "Большой глаз Эндера"
+}
